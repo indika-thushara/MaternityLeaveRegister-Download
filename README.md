@@ -8,22 +8,9 @@ The application provides maternity leave date calculations, government holiday m
 
 ## Download
 
-# Maternity Leave Register
+**Download the latest Windows Installer:**
 
-A desktop application designed to manage, record, and track employee maternity leave details efficiently.
-
-![Total Downloads](https://shields.io)
-![Latest Release](https://shields.io)
-
----
-
-## 📥 Download
-
-Click the button below to go to the latest release page and download the installer:
-
-👉 **[Download Latest Version (Windows Installer)](https://github.com)**
-
-*(On the release page, scroll down to **Assets** and click the `.exe` or `.msi` setup file to start downloading.)*
+Visit the [Releases](../../releases) page and download the latest `.exe` installer.
 
 ## Main Features
 
